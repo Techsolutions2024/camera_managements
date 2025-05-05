@@ -1,7 +1,6 @@
 ##camera_managements
 
 
-```markdown
 ##Camera Management System
 
 ## Giới thiệu
