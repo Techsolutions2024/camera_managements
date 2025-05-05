@@ -1,6 +1,5 @@
 # camera_managements
 
-Dưới đây là một tệp README.md mẫu cho repository của bạn. Bạn có thể chỉnh sửa thêm để phù hợp với mục tiêu và đặc điểm cụ thể của dự án.
 
 ```markdown
 # Camera Management System
