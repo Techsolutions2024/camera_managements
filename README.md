@@ -1,7 +1,5 @@
-##camera_managements
 
-
-##Camera Management System
+## Camera Management System
 
 ## Giới thiệu
 Dự án **Camera Management System** được phát triển nhằm cung cấp một giải pháp quản lý camera hiệu quả, linh hoạt và dễ sử dụng. Hệ thống này giúp quản lý, giám sát và xử lý dữ liệu từ nhiều camera khác nhau.
